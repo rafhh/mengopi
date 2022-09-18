@@ -13,7 +13,8 @@ body {
 
 .hero-bg {
     background: #341B15 url('../images/kopi3.1.jpg');
-    background-position: 83%; /* x% y% */
+    /* background-position: 83%; /* x% y% */
+    background-size: cover;
     color: white;
     text-align: center;
     padding-bottom: 4em;
