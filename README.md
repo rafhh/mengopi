@@ -9,3 +9,6 @@ my preferences.
 
 ## Mobile screen size 
 <img src= "https://user-images.githubusercontent.com/107899176/190897326-e1d546ff-1ef1-44c1-86ba-de7e6d0228ac.png" width="300">
+
+-----------------
+To preview this site [HTML Preview Link](https://htmlpreview.github.io/?https://github.com/rafhh/mengopi/blob/master/index.html)
